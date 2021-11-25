@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @wooya315
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi There! :computer:
+Good day! I am Sangwoo Lee who is interested in Data Science from South Korea.
+If you want to contact me. please leave me a message!
 
-<!---
-wooya315/wooya315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#Experience
+Year-Dream School 1st :school:
+
