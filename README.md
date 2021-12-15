@@ -1,5 +1,5 @@
 # Hi There! :computer:
-Good day! I am Sangwoo Lee who is interested in Data Science from South Korea.<br>
+Good day! I am Sangwoo Lee who is interested in Data Engineering and Back-End from South Korea.<br>
 If you want to contact me. please leave me a message!<br>
 ---
 # Experience <br>
