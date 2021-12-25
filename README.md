@@ -5,3 +5,4 @@ If you want to contact me. please leave me a message!<br>
 # Experience <br>
 Year-Dream School 1st :school:
 
+email: tkddn2075@naver.com
